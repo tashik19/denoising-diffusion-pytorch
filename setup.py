@@ -23,8 +23,6 @@ setup(
     'numpy',
     'pillow',
     'pytorch-fid',
-    'torch',
-    'torchvision',
     'tqdm'
   ],
   classifiers=[
